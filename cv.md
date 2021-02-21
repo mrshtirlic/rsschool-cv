@@ -13,14 +13,14 @@ I returned to programming after a few years of break and work in another field, 
 
 ## Skills:
 
-1 Graphic Editor: Figma. Photoshop
-2 IDE: PhpStorm. VS Code
-3 Version control system: Bitbucket
-4 Gulp
-5 HTML5 и CSS
-6 Pug и SCSS
-7 Bootstrap4
-8 BEM
+1 Graphic Editor: Figma. Photoshop  
+2 IDE: PhpStorm. VS Code  
+3 Version control system: Bitbucket  
+4 Gulp  
+5 HTML5 и CSS  
+6 Pug и SCSS  
+7 Bootstrap4  
+8 BEM  
 
 ## Code examples:
 
