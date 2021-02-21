@@ -2,24 +2,16 @@
 
 ## Ilnur Takchurin
 
----
-
 ## Contacts:
 
----
-
-E-mail: _takchurinif@gmail.com_
-Telegram: _+79964012438_
+E-mail: _takchurinif@gmail.com_  
+Telegram: _ITF95_
 
 ## About me:
-
----
 
 I returned to programming after a few years of break and work in another field, I want to grow professionally. I develop myself every day
 
 ## Skills:
-
----
 
 1 Graphic Editor: Figma. Photoshop
 2 IDE: PhpStorm. VS Code
@@ -32,7 +24,6 @@ I returned to programming after a few years of break and work in another field, 
 
 ## Code examples:
 
----
 ```javascript
 if (document.getElementById('slider')) {
     (function () {
@@ -71,16 +62,13 @@ if (document.getElementById('slider')) {
 }
 ```
 ## Experience:
----
 
 7 months worked as a frontend developer in the company ГК Снег
 
 ## Education:
----
 
 Graduated from the Financial University under the Government of the Russian Federation
 
 ## English:
----
 
 According to the results of the tests, English proficiency at the A2 Pre-Intermediate
