@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mrshtirlic.github.io/rsschool-cv/cv
